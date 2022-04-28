@@ -1,2 +1,2 @@
 # TemperatureConverter
-Simple terminal-based program to convert temperatures.
+Simple terminal-based and GUI program to convert temperatures.
